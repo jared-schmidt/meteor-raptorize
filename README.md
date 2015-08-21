@@ -6,9 +6,14 @@ I have no affiliation with zurb.com
 
 Original jQuery Plugin: http://zurb.com/playground/jquery-raptorize
 
+# Installation
+
+`$ meteor add jschmidt:raptorize`
+
 # Start
 
 Call `Raptorize();` in a function.
+
 
 # Example
 

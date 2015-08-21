@@ -1,8 +1,8 @@
 # meteor-raptorize
 
-This is a meteor version of the jquery-raptorize from zurb.com. That I created.
+This is a meteor version of the jquery-raptorize from zurb.com.
 
-I have no affiliation with zurb.com
+**I have no affiliation with zurb.com**
 
 Original jQuery Plugin: http://zurb.com/playground/jquery-raptorize
 
